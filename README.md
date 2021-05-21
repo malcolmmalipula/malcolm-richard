@@ -1,6 +1,6 @@
 <html lang="en-US"> 
 <head>
-<img src="IMG_2624.jpg" alt="red bmw" width="1000" height="600" </img>  
+<img src="IMG_2624.jpg" width="1000" height="600" </img>  
 <h2 style="text-align: center;">SUMMARY ABOUT ME</h2> 
 </head>  
 <title>MALCOLM PROFILE</title>
